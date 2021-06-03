@@ -1,9 +1,9 @@
 ---
-title: "Alison Hill"
-subtitle: "Product Manager, Data Science Communication @RStudio"
-description: "I am a data scientist, behavioral scientist, and award-winning educator. I work on products that make it easier and more delightful for data scientists to communicate. I am also a co-developer of the `palmerpenguins`, `distill`, and `blogdown` R packages, as well an author and international keynote speaker."
+title: "Nitin Garg"
+subtitle: "Senior Undergraduate, Indian Insitute of Technology Kanpur"
+description: "I am a student in the [Department of Mathematics and Statistics](https://iitk.ac.in/math/), IIT Kanpur. I like to work on interesting data science and statistics problems."
 images:
-  - img/home.jpeg
+  - img/dp.jpg
 image_left: false
 text_align_left: true
 show_social_links: true # specify social accounts in site config
@@ -16,3 +16,4 @@ type: home
 
 ** index doesn't contain a body, just front matter above.
 See index.html in the layouts folder **
+
